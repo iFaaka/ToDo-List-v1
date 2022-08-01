@@ -29,3 +29,19 @@
     background-color: lightblue;
 
 }
+
+@media (max-width: 768px) {
+    .formulario-input {
+        width: 40vw;
+    }
+
+    .formulario-button {
+        width: 20vw;
+    }
+
+    .formulario-container {
+        padding-left: 3vw;
+        padding-right: 3vw;
+
+    }
+}

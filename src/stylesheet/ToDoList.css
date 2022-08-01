@@ -12,3 +12,14 @@
     border-radius: 15px;
     margin-bottom: 4vh;
 }
+
+@media (max-width: 768px) {
+    .todo-container {
+        padding: 0;
+        padding-top: 5vh;
+        padding-bottom: 5vh;
+        width: 80vw;
+        min-height: 60vh;
+
+    }
+}

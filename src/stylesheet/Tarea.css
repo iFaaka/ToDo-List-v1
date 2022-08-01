@@ -20,3 +20,9 @@ li:before {
     word-wrap: break-word;
     text-transform: capitalize;
 }
+
+@media (max-width: 768px) {
+    .tarea-container {
+        width: 50vw;
+    }
+}
