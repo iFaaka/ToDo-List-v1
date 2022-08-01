@@ -3,26 +3,29 @@
     justify-content: center;
     align-items: center;
     margin-top: 4vh;
+    margin-bottom: 2vh;
     width: 100%;
+
 }
 
 .formulario-input {
-    border: 1px solid grey;
+    border: 1px solid black;
     width: 15vw;
     height: 4vh;
     border-radius: 10px;
-    background-color: #cccccc;
+    background-color: white;
     font-weight: bold;
     font-family: sans-serif;
     padding-left: 20px;
-    
+
 }
 
 .formulario-button {
     margin-left: 4vw;
-    border: 1px solid grey;
+    border: 1px solid black;
     border-radius: 10px;
     width: 100px;
     height: 4vh;
-    background-color: #A27B5C;
+    background-color: lightblue;
+
 }
